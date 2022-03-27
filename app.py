@@ -17,8 +17,8 @@ st.markdown(
          unsafe_allow_html=True
      )
 
-datas = datasets.Data()
-app_data, user_data = datas.get_data()
+data = datasets.Data()
+app_data = data.get_data()
 
 st.sidebar.title("Google App Store Dataset Analysis")
 user_menu = st.sidebar.radio(
