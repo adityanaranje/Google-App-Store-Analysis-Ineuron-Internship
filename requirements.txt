@@ -1,6 +1,6 @@
 streamlit
-requests
+numerize
 pybase64
 plotly
-bs4
-Pillow
+pandas
+numpy
