@@ -71,10 +71,9 @@
 
 
 ## User Interface:
-![](https://github.com/adityanaranje/Store_Sales_Prediction/blob/main/static/image/sales_interface.jpg)
+![](https://github.com/adityanaranje/Google-App-Store-Analysis-Ineuron-Internship/blob/main/img1.jpg)
 
-## Data In Database:
-![](https://github.com/adityanaranje/Store_Sales_Prediction/blob/main/static/image/Database_data.jpg)
+![](https://github.com/adityanaranje/Google-App-Store-Analysis-Ineuron-Internship/blob/main/img2.jpg)
 
 
 ## High Level Design (HLD)
