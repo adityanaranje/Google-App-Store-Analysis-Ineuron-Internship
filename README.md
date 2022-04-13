@@ -77,23 +77,23 @@
 
 
 ## High Level Design (HLD)
-Click [Here](https://drive.google.com/file/d/1gD1E-nLN9FZIsrCl4pT73ASjN2a2Ecsv/view?usp=sharing)
+Click [Here](https://drive.google.com/file/d/1snFynsnWEUdZ_hzIihjVHBLdJltwySIO/view?usp=sharing)
 
 
 ## Low Level Design (LLD)
-Click [Here](https://drive.google.com/file/d/1jCoclqPnYnkD71jeSHkNXXO9LF4Idn3e/view?usp=sharing)
+Click [Here](https://drive.google.com/file/d/1hXTEx8qDbEhZrPgSrriw0vCy7Kyufv8K/view?usp=sharing)
 
 
 ## Archirecture
-Click [Here](https://drive.google.com/file/d/1-Hjh6kW1j8MW75hXg88hK2GcWyBJg3Kl/view?usp=sharing)
+Click [Here](https://drive.google.com/file/d/1Yt3Hq3KpGyK2451BBk-37aogdDtjG0_c/view?usp=sharing)
 
 
 ## Wireframe Document
-Click [Here](https://drive.google.com/file/d/1rkoovjreKGkd6lL4NpKym1cDCHTM8AOm/view?usp=sharing)
+Click [Here](https://drive.google.com/file/d/1r6GIrK0vugf5vB01GrbL7B5OpUQsP5E4/view?usp=sharing)
 
 
 ## Project Report
-Click [Here](https://docs.google.com/presentation/d/1T9OjrWsSReIsp9xt9diQFmdzePlOzCHT/edit?usp=sharing&ouid=107047844624939518429&rtpof=true&sd=true)
+Click [Here](https://docs.google.com/presentation/d/1IIYDMziCW0e68DOFfOlYga23AtaAe3FF/edit?usp=sharing&ouid=107047844624939518429&rtpof=true&sd=true)
 
 ### Please feel free to inform me about any error or difficulty in my repository.
 # Thank You
