@@ -1,5 +1,5 @@
 # Project Title : Google App Store Analysis
-# Technologies : Python, Stremlit and Plotly
+# Technologies : Python, Stremalit and Plotly
 # Domain : Technology
 
 ## Problem Statement:
